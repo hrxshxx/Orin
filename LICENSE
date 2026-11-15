@@ -1,0 +1,75 @@
+Orin License
+Copyright (c) 2026 Hrishi. All rights reserved.
+
+1. Grant
+   You may download, install and use Orin free of charge, for personal or
+   commercial purposes.
+
+2. Distribution
+   You may copy and redistribute Orin, including the official installer
+   (.dmg), provided that:
+     a. the software is distributed unmodified and complete, exactly as
+        published by the author;
+     b. this license and all copyright notices are kept intact;
+     c. Orin is not sold, and no fee is charged for Orin itself; and
+     d. you do not present Orin as your own work.
+
+3. Restrictions
+   You may not:
+     a. modify, adapt, translate, rebrand or create derivative works of Orin;
+     b. reverse-engineer, decompile, disassemble or otherwise attempt to
+        derive the design or implementation of Orin;
+     c. recreate, clone or reimplement Orin, its features or its design,
+        in whole or in part, as a separate product; or
+     d. remove or alter any copyright, branding or license notice.
+
+4. Ownership
+   Orin, its name, icon and design are the property of Hrishi. This license
+   grants no rights to the Orin name or branding beyond identifying the
+   unmodified software when redistributing it.
+
+5. No warranty
+   ORIN IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+   INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR
+   A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE
+   LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF OR IN
+   CONNECTION WITH ORIN OR ITS USE. Very high boost levels can produce loud
+   sound; use responsibly and protect your hearing and others'.
+
+6. Termination
+   This license ends automatically if you break any of its terms. You must
+   then stop using and distributing Orin.
+
+--------------------------------------------------------------------------------
+Third-party notices
+
+BlackHole 2ch
+  Orin can download and install the BlackHole 2ch audio driver from its
+  official website (https://existential.audio/blackhole/). BlackHole is
+  separate software by Existential Audio Inc., licensed under GPL-3.0, and is
+  not part of Orin or covered by this license.
+
+Voice Louder
+  Portions of Orin's audio processing are adapted from "Voice Louder"
+  (https://github.com/NOOR-404/Voice-Louder-Extension), used under the
+  MIT License:
+
+  Copyright (c) 2026 Daniyal Hossain Noor
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to deal
+  in the Software without restriction, including without limitation the rights
+  to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in all
+  copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+  SOFTWARE.
