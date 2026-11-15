@@ -24,7 +24,7 @@ URL=$(curl -fsSL "https://api.github.com/repos/$REPO/releases/latest" \
 [ -n "$URL" ] || fail "Couldn't find the latest Orin release."
 
 curl -fL --progress-bar -o "$TMP/Orin.dmg" "$URL"
-MNT=$(hdiutil attach "$TMP/Orin.dmg" -nobrowse -readonly -noautoopen | grep -o '/Volumes/.*$' | tail -1)
+MNT=$(hdiutil attach "$TMP/Orin.dmg" -nobrowse -readonly -noautoopen 2>/dev/null | grep -o '/Volumes/.*$' | tail -1)
 [ -d "$MNT/Orin.app" ] || fail "The downloaded disk image looks damaged."
 
 pkill -x Orin 2>/dev/null || true

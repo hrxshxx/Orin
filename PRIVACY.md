@@ -1,36 +1,34 @@
-# Orin Privacy Policy
+# Orin privacy policy
 
 _Last updated: 15 November 2026_
 
-Orin is a microphone booster for macOS developed by Hrishi. Your privacy matters, so Orin is built to keep everything on your Mac.
+Orin is a microphone booster for macOS, developed by Hrishi. It works entirely on your Mac and doesn't collect anything about you.
 
-## What Orin accesses
+## What Orin uses
 
 | What | Why | Where it goes |
 |---|---|---|
-| **Microphone** | To boost and shape your voice in real time | Processed in memory on your Mac and passed to the audio device you choose. Never recorded, stored or sent anywhere. |
-| **Audio devices list** | To let you pick your microphone and output | Stays on your Mac |
-| **Your settings and presets** | To remember your boost, equalizer and saved presets | Saved locally in your Mac's app preferences |
+| Microphone | To boost and shape your voice as you talk | It's processed in memory and sent to the audio device you pick. It's never recorded, saved or sent anywhere else. |
+| List of audio devices | So you can choose your mic and where to send it | Stays on your Mac |
+| Your settings and presets | So Orin remembers your boost, equalizer and saved presets | Saved in your Mac's app preferences |
 
-## What Orin does **not** do
+## What Orin doesn't do
 
-- No accounts, sign-ins or personal information
-- No analytics, telemetry, crash reporting or tracking
-- No advertising
-- No recording, saving or uploading of your voice
-- No selling or sharing of any data, because Orin collects none
+Orin has no accounts and doesn't ask for any personal information. It has no analytics, crash reporting, tracking or ads. It never records or uploads your voice, and since it collects no data, there's nothing to sell or share.
 
-## Network use
+## When Orin goes online
 
-Orin connects to the internet in one case only. If the free **BlackHole 2ch** audio driver isn't installed, Orin downloads it from its official website (`existential.audio`) and checks the file's integrity before installing it. No information about you is sent. The Terminal installer also downloads Orin itself from GitHub.
+Only when it has to. If the free BlackHole 2ch audio driver isn't installed, Orin downloads it from the official site (`existential.audio`), checks the file hasn't been tampered with, and installs it. Nothing about you is sent.
+
+If you install with the Terminal command, that script also downloads Orin itself from GitHub.
 
 ## Permissions
 
-macOS asks you to allow microphone access, and installing the audio driver asks for your password. Your password goes directly to macOS; Orin never sees or stores it. You can turn off microphone access at any time in **System Settings › Privacy & Security › Microphone**.
+macOS asks you to allow microphone access. Installing the audio driver asks for your password, which goes straight to macOS; Orin never sees or stores it. You can turn microphone access off at any time in System Settings › Privacy & Security › Microphone.
 
 ## Removing your data
 
-Delete Orin from Applications. To also remove your saved settings, run:
+Delete Orin from Applications. To remove your saved settings as well, run:
 
 ```bash
 defaults delete local.orin.app
@@ -38,4 +36,4 @@ defaults delete local.orin.app
 
 ## Contact
 
-Questions about privacy? Ask on the [Chill w/ Hrishi](https://discord.gg/QEykkuk6Gq) Discord server.
+If you have a question about privacy, ask in the [Chill w/ Hrishi](https://discord.gg/QEykkuk6Gq) Discord server.

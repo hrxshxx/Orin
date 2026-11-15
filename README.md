@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Orin — Your voice, louder." width="100%">
+  <img src="assets/banner.png" alt="Orin: your voice, louder." width="100%">
 </p>
 
 <p align="center">
@@ -10,41 +10,39 @@
 </p>
 
 <p align="center">
-  <b>Orin</b> makes your microphone louder in every app on your Mac.<br>
-  Boost, shape and gate your voice, then use it in Discord, WhatsApp, Zoom, FaceTime, OBS and more.
+  Orin makes your mic louder in every app on your Mac.<br>
+  Turn it on, pick BlackHole 2ch as your mic in Discord, WhatsApp, Zoom or OBS, and people hear you properly.
 </p>
-
----
 
 <p align="center">
   <img src="assets/app.png" alt="Orin app window" width="720">
 </p>
 
-## Features
+## What it does
 
-- **One-click boost.** Turn Orin on and your voice gets louder everywhere, up to +60 dB.
-- **Rage mode.** Push past normal limits for that loud, punchy, distorted sound.
-- **Noise gate.** Cuts quiet background sound such as fans and keyboard clicks when you're not talking.
-- **Bit crush.** A lo-fi, radio-style effect.
-- **6-band equalizer.** Shape bass, mids and treble from 100 Hz to 12 kHz.
-- **Presets.** Natural, Loud and Max Rage are built in, and you can save three presets of your own.
-- **Mute and Clean.** Silence your mic instantly, or switch to your natural voice without stopping.
-- **Menu bar control.** Turn Orin on or off, mute, adjust the boost and switch presets from the menu bar.
-- **Native Mac design.** Liquid Glass styling that follows your Mac's light/dark mode and accent colour.
+- Boosts your voice by up to +60 dB with one click.
+- Rage adds extra gain on top of the boost, for a loud, distorted sound when you want it.
+- The noise gate cuts fan hum and keyboard clicks while you're not talking.
+- Bit crush gives you a lo-fi, radio-style voice.
+- A 6-band equalizer covers 100 Hz to 12 kHz, so you can add bass or clear up muddy audio.
+- It comes with three presets (Natural, Loud and Max Rage), and you can save three of your own.
+- Mute silences your mic straight away. Clean switches the boost off without stopping Orin.
+- The O in your menu bar lets you turn Orin on or off, mute, change the boost and switch presets without opening the window.
+- It follows your Mac's light or dark mode and your accent colour.
 
 ## Install
 
-### Option 1: Download
+### Download
 
-1. Download the **Orin .dmg** file from the [latest release](https://github.com/hrxshxx/Orin/releases/latest).
-2. Open it and drag **Orin** into **Applications**.
+1. Download the Orin `.dmg` from the [latest release](https://github.com/hrxshxx/Orin/releases/latest).
+2. Open it and drag Orin into Applications.
 3. Open Orin from Applications.
 
 <p align="center">
   <img src="assets/installer.png" alt="Orin installer" width="560">
 </p>
 
-### Option 2: Terminal
+### Terminal
 
 Paste this into Terminal:
 
@@ -52,49 +50,47 @@ Paste this into Terminal:
 curl -fsSL https://raw.githubusercontent.com/hrxshxx/Orin/main/install.sh | bash
 ```
 
-This installs the latest Orin into Applications, installs the audio driver if it's missing, and opens the app.
+It puts the latest Orin in Applications, installs the audio driver if you don't have it, and opens the app.
 
-### First launch
+### The first time you open Orin
 
-- **Audio driver.** Orin uses the free [BlackHole 2ch](https://existential.audio/blackhole/) audio driver to pass your voice to other apps. If it's missing, Orin installs it automatically. macOS asks for your password once.
-- **Microphone access.** Click **Allow** when macOS asks. Orin can't hear you without it.
-- **"Orin can't be opened" warning.** Right-click Orin in Applications and choose **Open**, then **Open** again. You only need to do this once.
+Orin sends your voice to other apps through [BlackHole 2ch](https://existential.audio/blackhole/), a free audio driver. If it isn't on your Mac yet, Orin installs it for you, and macOS asks for your password once.
 
-## Use
+macOS will also ask whether Orin can use the microphone. Click Allow, otherwise Orin can't hear you.
 
-1. Click the power button in Orin, or the **O** in your menu bar.
-2. In Discord, WhatsApp, Zoom or any other app, set the **microphone / input device** to **BlackHole 2ch**.
-3. Talk. Adjust **Boost**, pick a preset, or fine-tune the equalizer while you go.
+If macOS says Orin can't be opened, right-click Orin in Applications, choose Open, then click Open again. You only have to do this the first time.
 
-> **Tip:** if you set Orin's *Send to* to your speakers, you'll hear yourself. Use headphones to avoid feedback.
+## How to use it
+
+1. Click the power button in Orin, or the O in your menu bar.
+2. In Discord, WhatsApp, Zoom or whatever app you're using, set the microphone (sometimes called input device) to BlackHole 2ch.
+3. Start talking. You can change the boost, pick a preset or adjust the equalizer while you go.
+
+> If you set Orin's "Send to" to your speakers, you'll hear yourself. Wear headphones or you'll get feedback.
 
 ## Uninstall
 
-Quit Orin from the menu bar, then drag **Orin** from Applications to the Bin.
+Quit Orin from the menu bar, then drag it from Applications to the Bin.
 
 ## Privacy
 
-Orin processes your voice **entirely on your Mac**.
+Your voice stays on your Mac. Orin doesn't record it, save it or upload it, and there's no account, tracking, analytics or ads.
 
-- No account, no sign-in, no tracking, no analytics, no ads.
-- Your voice is never recorded, saved or uploaded.
-- The only time Orin goes online is to download the BlackHole 2ch driver from its official website, and only if it isn't already installed.
+Orin only goes online to download BlackHole 2ch from its official website, and only if you don't already have it.
 
-Read the full [Privacy Policy](PRIVACY.md).
+The details are in the [privacy policy](PRIVACY.md).
 
 ## License
 
-Orin is free to use and free to share. You may distribute unmodified copies of Orin, including the official installer.
-You may **not** modify, reverse-engineer, rebrand, sell, or recreate Orin or any part of it.
-See [LICENSE](LICENSE) for the full terms.
+Orin is free to use and free to share. You can pass on unmodified copies, including the official installer, but you can't modify, reverse-engineer, rebrand, sell or recreate Orin or any part of it. The full terms are in [LICENSE](LICENSE).
 
-## Community and support
+## Help and feedback
 
-Questions, ideas or bugs? Join the **[Chill w/ Hrishi](https://discord.gg/QEykkuk6Gq)** Discord server.
+Got a question, an idea or a bug? Come say hi in the [Chill w/ Hrishi](https://discord.gg/QEykkuk6Gq) Discord server.
 
----
+<br>
 
 <p align="center">
-  Developed by <b>Hrishi</b><br>
+  Developed by Hrishi<br>
   © 2026 Hrishi. All rights reserved.
 </p>
