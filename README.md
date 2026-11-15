@@ -6,7 +6,7 @@
   <a href="https://github.com/hrxshxx/Orin/releases/latest"><img src="https://img.shields.io/github/v/release/hrxshxx/Orin?style=for-the-badge&color=8b3dff&label=Download" alt="Download"></a>
   <img src="https://img.shields.io/badge/macOS-26%2B-111111?style=for-the-badge&logo=apple&logoColor=white" alt="macOS 26+">
   <img src="https://img.shields.io/badge/Apple%20Silicon-Native-111111?style=for-the-badge" alt="Apple Silicon">
-  <a href="https://discord.gg/QEykkuk6Gq"><img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://discord.gg/QEykkuk6Gq"><img src="https://img.shields.io/badge/Discord-Chill%20w%2F%20Hrishi-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Chill w/ Hrishi Discord server"></a>
 </p>
 
 <p align="center">
@@ -90,7 +90,7 @@ See [LICENSE](LICENSE) for the full terms.
 
 ## Community and support
 
-Questions, ideas or bugs? Join the **[Orin Discord server](https://discord.gg/QEykkuk6Gq)**.
+Questions, ideas or bugs? Join the **[Chill w/ Hrishi](https://discord.gg/QEykkuk6Gq)** Discord server.
 
 ---
 
