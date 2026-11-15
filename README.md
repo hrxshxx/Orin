@@ -87,6 +87,12 @@ If macOS says Orin can't be opened, right-click Orin in Applications, choose Ope
 
 > Want to check how you sound? Turn on Hear Me with headphones in. With speakers you'll get feedback.
 
+## If something goes wrong
+
+Orin shows a message at the top of its window with a short code like ORN-2 and what went wrong. Click Copy details and paste it in the [Chill w/ Hrishi](https://discord.gg/QEykkuk6Gq) Discord server, so the problem can be found and fixed. The details include your Orin and macOS versions and which devices you were using, nothing personal.
+
+If you plug in headphones or your AirPods disconnect, Orin restarts its audio by itself.
+
 ## Uninstall
 
 Quit Orin from the menu bar, then drag it from Applications to the Bin.
