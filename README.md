@@ -47,7 +47,21 @@
 - Presets: Natural is your voice with no effects, and Loud and Max Rage are ready to go. You can save three of your own.
 - Reset buttons put the voice controls and the equalizer back to zero.
 - The O in your menu bar lets you turn Orin on or off, mute, change the boost, pick a voice and switch presets without opening the window.
-- It follows your Mac's light or dark mode and your accent colour.
+
+### Make it yours
+
+Click the gear in the top corner to open Settings.
+
+- Pick light, dark or your Mac's appearance, just for Orin.
+- Choose how much Liquid Glass you want: clear, regular or solid.
+- Pick an accent colour, or keep your Mac's.
+- Turn on Open at login so Orin starts in your menu bar.
+- Check for updates. If a new version is out, one click downloads and installs it. If not, you'll see a green tick.
+- Find the GitHub page and the Discord server.
+
+<p align="center">
+  <img src="assets/settings.png" alt="Orin settings" width="640">
+</p>
 
 ## Install
 
@@ -101,7 +115,7 @@ Quit Orin from the menu bar, then drag it from Applications to the Bin.
 
 Your voice stays on your Mac. Orin doesn't record it, save it or upload it, and there's no account, tracking, analytics or ads.
 
-Orin only goes online to download BlackHole 2ch from its official website, and only if you don't already have it.
+Orin only goes online for two things: to check GitHub for a new version when you open Settings or click Check for updates (and download it if you click Update), and to download BlackHole 2ch from its official website if you don't already have it.
 
 The details are in the [privacy policy](PRIVACY.md).
 
