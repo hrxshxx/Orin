@@ -20,14 +20,33 @@
 
 ## What it does
 
+### Make your voice louder
+
 - Boosts your voice by up to +60 dB with one click.
 - Rage adds extra gain on top of the boost, for a loud, distorted sound when you want it.
-- The noise gate cuts fan hum and keyboard clicks while you're not talking.
 - Bit crush gives you a lo-fi, radio-style voice.
 - A 6-band equalizer covers 100 Hz to 12 kHz, so you can add bass or clear up muddy audio.
-- It comes with three presets (Natural, Loud and Max Rage), and you can save three of your own.
+- Green, yellow and red level meters show how loud you are, so you can see when you're about to distort.
+
+### Get rid of background noise
+
+- Denoise removes fan hum, traffic, keyboard clicks, coughs and heavy breathing. It only lets your actual voice through and goes silent between words, without cutting off the start of a sentence.
+- It adjusts to your room by itself, so there's nothing to set up.
+- The noise gate is still there if you want a simple, manual one.
+
+### Change how you sound
+
+- Gender Swap works out whether your voice is lower or higher and shifts it the other way, keeping the natural character of a real voice.
+- Deep lowers your voice and gives it a bigger, more masculine sound.
+- Both follow your voice as you talk, so you don't need to set your pitch.
+
+### Stay in control
+
+- Hear Me plays your voice back to you exactly as others hear it. Wear headphones when you use it.
 - Mute silences your mic straight away. Clean switches the boost off without stopping Orin.
-- The O in your menu bar lets you turn Orin on or off, mute, change the boost and switch presets without opening the window.
+- Presets: Natural is your voice with no effects, and Loud and Max Rage are ready to go. You can save three of your own.
+- Reset buttons put the voice controls and the equalizer back to zero.
+- The O in your menu bar lets you turn Orin on or off, mute, change the boost, pick a voice and switch presets without opening the window.
 - It follows your Mac's light or dark mode and your accent colour.
 
 ## Install
@@ -64,9 +83,9 @@ If macOS says Orin can't be opened, right-click Orin in Applications, choose Ope
 
 1. Click the power button in Orin, or the O in your menu bar.
 2. In Discord, WhatsApp, Zoom or whatever app you're using, set the microphone (sometimes called input device) to BlackHole 2ch.
-3. Start talking. You can change the boost, pick a preset or adjust the equalizer while you go.
+3. Start talking. You can change the boost, pick a preset, turn on Denoise or try a different voice while you go.
 
-> If you set Orin's "Send to" to your speakers, you'll hear yourself. Wear headphones or you'll get feedback.
+> Want to check how you sound? Turn on Hear Me with headphones in. With speakers you'll get feedback.
 
 ## Uninstall
 

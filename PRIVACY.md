@@ -1,6 +1,6 @@
 # Orin privacy policy
 
-_Last updated: 15 November 2026_
+_Last updated: 16 November 2026_
 
 Orin is a microphone booster for macOS, developed by Hrishi. It works entirely on your Mac and doesn't collect anything about you.
 
@@ -8,7 +8,7 @@ Orin is a microphone booster for macOS, developed by Hrishi. It works entirely o
 
 | What | Why | Where it goes |
 |---|---|---|
-| Microphone | To boost and shape your voice as you talk | It's processed in memory and sent to the audio device you pick. It's never recorded, saved or sent anywhere else. |
+| Microphone | To boost, clean up and change your voice as you talk | It's processed in memory and sent to the audio device you pick, and to your own headphones if you turn on Hear Me. It's never recorded, saved or sent anywhere else. |
 | List of audio devices | So you can choose your mic and where to send it | Stays on your Mac |
 | Your settings and presets | So Orin remembers your boost, equalizer and saved presets | Saved in your Mac's app preferences |
 
