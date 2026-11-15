@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/hrxshxx/Orin/releases/latest"><img src="https://img.shields.io/github/v/release/hrxshxx/Orin?style=for-the-badge&color=8b3dff&label=Download" alt="Download"></a>
+  <a href="https://github.com/hrxshxx/Orin/releases/latest"><img src="https://img.shields.io/github/v/release/hrxshxx/Orin?style=for-the-badge&color=8b3dff&label=Download&cacheSeconds=3600" alt="Download"></a>
   <img src="https://img.shields.io/badge/macOS-26%2B-111111?style=for-the-badge&logo=apple&logoColor=white" alt="macOS 26+">
   <img src="https://img.shields.io/badge/Apple%20Silicon-Native-111111?style=for-the-badge" alt="Apple Silicon">
   <a href="https://discord.gg/QEykkuk6Gq"><img src="https://img.shields.io/badge/Discord-Chill%20w%2F%20Hrishi-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Chill w/ Hrishi Discord server"></a>
