@@ -38,4 +38,4 @@ defaults delete local.orin.app
 
 ## Contact
 
-Questions about privacy? Ask on the [Orin Discord server](https://discord.gg/QEykkuk6Gq).
+Questions about privacy? Ask on the [Chill w/ Hrishi](https://discord.gg/QEykkuk6Gq) Discord server.
