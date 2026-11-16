@@ -11,7 +11,7 @@
 
 <p align="center">
   Orin makes your mic louder in every app on your Mac.<br>
-  Turn it on, pick BlackHole 2ch as your mic in Discord, WhatsApp, Zoom or OBS, and people hear you properly.
+  Turn it on, pick Orin Microphone as your mic in Discord, WhatsApp, Zoom or OBS, and people hear you properly.
 </p>
 
 <p align="center">
@@ -87,7 +87,7 @@ It puts the latest Orin in Applications, installs the audio driver if you don't 
 
 ### The first time you open Orin
 
-Orin sends your voice to other apps through [BlackHole 2ch](https://existential.audio/blackhole/), a free audio driver. If it isn't on your Mac yet, Orin installs it for you, and macOS asks for your password once.
+Orin sends your voice to other apps through [BlackHole 2ch](https://existential.audio/blackhole/), a free audio driver. If it isn't on your Mac yet, Orin installs it for you, and macOS asks for your password once. Orin then adds a microphone called Orin Microphone, so it's easy to find in other apps' mic lists. You'll also see BlackHole 2ch in those lists; both carry Orin's voice, but Orin Microphone is the one to pick.
 
 macOS will also ask whether Orin can use the microphone. Click Allow, otherwise Orin can't hear you.
 
@@ -96,7 +96,7 @@ If macOS says Orin can't be opened, right-click Orin in Applications, choose Ope
 ## How to use it
 
 1. Click the power button in Orin, or the O in your menu bar.
-2. In Discord, WhatsApp, Zoom or whatever app you're using, set the microphone (sometimes called input device) to BlackHole 2ch.
+2. In Discord, WhatsApp, Zoom or whatever app you're using, set the microphone (sometimes called input device) to Orin Microphone.
 3. Start talking. You can change the boost, pick a preset, turn on Denoise or try a different voice while you go.
 
 > Want to check how you sound? Turn on Hear Me with headphones in. With speakers you'll get feedback.
